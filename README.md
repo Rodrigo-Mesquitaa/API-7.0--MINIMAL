@@ -3,13 +3,13 @@ API .NET 7.0 -SQL Server
 
 # Projeto WEB API MINIMAL
 
-Projeto realizado criaÁ„o de Web API Minimal com minimo de dependecias, Crud simples, aplicaÁ„o utiliza Banco de dados SQL Server Crud simples.
+Projeto realizado cria√ß√£o de Web API Minimal com minimo de dependecias, Crud simples, aplica√ß√£o utiliza Banco de dados SQL Server Crud simples.
 
 ## Tecnologias utilizadas 
 
--.NET 7.0
+- .NET 7.0
 - API Crud
-- SQL Server (dados simulados j· no banco de dados)
+- SQL Server (dados simulados j√° no banco de dados)
 - MINIMAL API
 - Swagger
 
